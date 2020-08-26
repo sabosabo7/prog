@@ -41,12 +41,13 @@ max_number_of_step = 200
 
 #%%
 episode = 0
-while True:
+while episode < num_episodes:
     s = get_state(env.reset())
     for t in range(max_number_of_step):
         a = epsilon_greedy(Q, s, action_num, epsilon, episode)
         s1, r, d, _ = env.step(a)
-        # env.render()
+        if episode % 100 == 0:
+            env.render()
         if d and t < 195:
             r = -100
         s1 = get_state(s1)
