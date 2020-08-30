@@ -1,5 +1,5 @@
 # RL Q-learning cartpole
-#%%
+# %%
 import numpy as np
 import gym
 
@@ -32,7 +32,7 @@ def get_state(obs):
     )
 
 
-#%%
+# %%
 num_episodes = 3000
 alpha = 0.5
 gamma = 0.8
