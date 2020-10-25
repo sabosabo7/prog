@@ -1,0 +1,7 @@
+- 同梱物
+学習教材: Day5_lecture.pdf
+コードが記載されたJupyterNotebook: Day5_notebook.ipynb
+データが入ったフォルダ: tips
+
+- 確認テストのリンク
+https://docs.google.com/forms/d/e/1FAIpQLSeVzAK8XvYG5BCV8Bb5w_-8T9cr4bx6fhCpivu9XRjfzWeFVQ/viewform

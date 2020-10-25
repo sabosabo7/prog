@@ -1,0 +1,7 @@
+- 同梱物
+学習教材: Day1_lecture.pdf
+コードが記載されたJupyterNotebook: Day1_notebook.ipynb
+ライブラリ準備用JupyterNotebook: preparation.ipynb
+
+- 確認テストへのリンク
+https://docs.google.com/forms/d/e/1FAIpQLSd63oSd6jBqdL3WaNNRJZikua3Jq59Fx2QVFmPoixExt6agnA/viewform

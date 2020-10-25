@@ -1,0 +1,7 @@
+- 同梱物
+学習教材: Day4_lecture.pdf
+コードが記載されたJupyterNotebook: Day4_notebook.ipynb
+Pandasで読み込むデータ：titanic_train.csv
+
+- 確認テストのリンク
+https://docs.google.com/forms/d/e/1FAIpQLSc5YESb3unfGTl4PGCEvjdDPVAmPsZiVlFo12lPOjVaRNbRKQ/viewform

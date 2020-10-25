@@ -1,0 +1,6 @@
+- 同梱物
+学習教材: Day2_lecture.pdf
+コードが記載されたJupyter Notebook: Day2_notebook.ipynb
+
+- 確認テストへのリンク
+https://docs.google.com/forms/d/e/1FAIpQLSdKnPcL97AFU3VBvzvSqxZyMCLN3fIJmhXVw-9xBSl9KUVv3g/viewform

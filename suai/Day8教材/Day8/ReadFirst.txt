@@ -1,0 +1,7 @@
+- 同梱物
+学習教材: Day8_lecture.pdf
+コードが記載されたJupyterNotebook: Day8_notebook.ipynb
+生データおよび前処理で加工したデータが格納されたフォルダ: titanic
+
+- 確認テストのリンク
+https://docs.google.com/forms/d/e/1FAIpQLScL11Iw9-DZfc062uF12YYDuez25xLA2awe26oP6J4oWbip-A/viewform

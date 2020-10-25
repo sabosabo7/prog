@@ -1,0 +1,7 @@
+- 同梱物
+学習教材: Day7_lecture.pdf
+コードが記載されたJupyterNotebook: Day7_notebook.ipynb
+データが格納されたフォルダ: titanic
+
+- 確認テストのリンク
+https://docs.google.com/forms/d/e/1FAIpQLSfnayL0UbFfelZdV0UoeIB1gQfMac_-AWNOwm2yBVpn5qGNTA/viewform

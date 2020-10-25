@@ -1,0 +1,7 @@
+- 同梱物
+学習教材: Day6_lecture.pdf
+コードが記載されたJupyterNotebook: Day6_notebook.ipynb
+データが入ったフォルダ: houseフォルダ 及び tipsフォルタ
+
+- 確認テストのリンク
+https://docs.google.com/forms/d/e/1FAIpQLSfyb6bZVCKT6ckwOSwGMEkyVT7pNvqw3au_uh8soRMcjsdoMQ/viewform
