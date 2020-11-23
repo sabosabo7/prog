@@ -1,0 +1,44 @@
+## DAY1_vr3_2_1,  2020.10.9
+* 5_logistic_regression_psedo_data.ipynb
+	-　境界線の引き方を補足
+	- clf.predict_proba による確率値の取得方法を追加
+	- clf.predict_proba によって得た確率値で対数尤度を計算するように変更
+	- StandardScalerで標準化する処理を追加 
+* 6_logistic_regression_real_data_trainee.ipynb
+	- StandardScalerで標準化する処理を追加
+* 6_logistic_regression_real.ipynb
+	- StandardScalerで標準化する処理を追加
+	- clf.predict_proba による確率値の取得方法を追加
+	- clf.predict_proba によって得た確率値で対数尤度を計算するように変更
+
+
+## DAY1_vr3_2_0,  2020.9.9
+* 4_appendixを追加
+
+
+## DAY1_vr3_1_2,  2020.8.12
+* 0_preparation.ipynb, seabornの指定バージョンを0.9.1に変更
+
+
+## DAY1_vr3_1_1,  2020.7.20
+* 7_model_evaluation.ipynb, 以下の行に関する誤植修正, precision[0]などだと2000万未満に関するprecisionだったため、precision[1]などに変更.
+	[誤]
+	# カテゴリ「2000万以上」に関するPrecision, Recall, F1-scoreを表示
+	print('適合率（Precision） = {:.3f}%'.format(100 * precision[0]))
+	print('再現率（Recall） = {:.3f}%'.format(100 * recall[0]))
+	print('F1値（F1-score） = {:.3f}%'.format(100 * f1_score[0]))
+	[正]
+	# カテゴリ「2000万以上」に関するPrecision, Recall, F1-scoreを表示
+	print('適合率（Precision） = {:.3f}%'.format(100 * precision[1]))
+	print('再現率（Recall） = {:.3f}%'.format(100 * recall[1]))
+	print('F1値（F1-score） = {:.3f}%'.format(100 * f1_score[1]))
+
+
+
+## DAY1_vr3_1_0,  2019.8.22
+*  スライドp.42, 変更, モデルを探索 -> パラメータを探索
+*  スライドp.43, 変更, モデルを探す -> パラメータを探す
+*  スライドp.44, 変更, モデルを探す -> パラメータを探す
+*  スライド, 講座に関する説明修正
+*  スライド, 目次修正
+ 
