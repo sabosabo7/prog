@@ -1,0 +1,6 @@
+## DAY4_vr6_0_1, 2020.04.23
+* 4_7_simpleconvnet.ipynb
+	self.layers['Pool1'] = MaxPooling(pool_h=pool_size, pool_w=pool_size, stride=pool_stride)の引数にpad=pool_padを追加
+
+## DAY4_vr6_0_0, 2020.04.03
+* 公開

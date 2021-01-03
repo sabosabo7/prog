@@ -1,0 +1,23 @@
+## DAY6_vr6_0_2, 2020.09.11
+* スライドp.83誤植修正, h^t -> y^t
+* スライドp.21 著作権法の改正（2019年1月1日施行）をうけ、内容を更新
+　　改正によって、旧第47条の7は、第30条の4に統合された
+
+
+## DAY6_vr6_0_1, 2020.06.01
+* 6_9_SimpleRNNLM.ipynbのパラメータの初期化部分
+	np.sqrt(2/(D+V))をnp.sqrt(2/(H+V))に修正
+* common/simple_rnnlm.pyのパラメータの初期化部分
+	np.sqrt(2/(D+V))をnp.sqrt(2/(H+V))に修正
+* common/lstmlm.pyのパラメータの初期化部分
+	np.sqrt(2/(D+V))をnp.sqrt(2/(H+V))に修正
+	/ を　* に修正
+* common/grulm.pyのパラメータの初期化部分
+	np.sqrt(2/(D+V))をnp.sqrt(2/(H+V))に修正
+	/ を　* に修正
+* common/grulm.pyのパラメータの変数名
+	lstm_*をgru_*に修正
+	
+
+## DAY6_vr6_0_0,2020.05.15
+* 公開
