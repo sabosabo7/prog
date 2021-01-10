@@ -1,0 +1,10 @@
+## DAY7_vr6_0_1, 2020.06.02
+* Notebookファイル名称修正
+	7_9_visual_attension.ipynbを7_9_visual_attention.ipynbに修正
+* スライドp.55 Notebookファイル名称修正
+	7_9_visual_attension.ipynbを7_9_visual_attention.ipynbに修正
+
+## DAY7_vr6_0_0, 2020.06.02
+* 公開
+
+
