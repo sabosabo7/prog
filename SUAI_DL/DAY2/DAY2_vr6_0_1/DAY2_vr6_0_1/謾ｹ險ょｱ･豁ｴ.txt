@@ -1,0 +1,7 @@
+## DAY2_vr6_0_1,  2020.05.09
+* myplotly.pyの16行目　y = [point_x]をy = [point_y]に修正
+* 2_10_two_layer_NeuralNetwork_mnist_trainee.ipynbにおけるMNISTデータの読み込み方を2_10_two_layer_NeuralNetwork_mnist.ipynbに合わせた
+
+
+## DAY2_vr6_0_0,  2020.03.16
+* 公開
