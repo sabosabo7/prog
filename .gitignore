@@ -1,2 +1,4 @@
 .vscode/
-SUAI_ML/venvML/
+/SUAI_ML/venvML/
+.venv/
+/SUAI_DL/DAY4/DAY4_vr6_0_1/DAY4_vr6_0_1/1_data/*/
